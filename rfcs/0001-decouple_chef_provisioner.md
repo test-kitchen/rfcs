@@ -49,7 +49,7 @@ By decoupling the provisioner, we enable:
 3. Create kitchen-cinc Plugin
    - Community-maintained plugin for Cinc users.
    - Mirrors functionality of chef but uses Cinc downloads and tooling.
-   - Use cinc_<name> naming scheme for provioners to replace chef_infra, chef_zeo, etc...
+   - Use cinc_(name) naming scheme for provioners to replace chef_infra, chef_zeo, etc...
 4. Update Default Behavior Post-Omnitruck Shutdown
    - After Omnitruck is shut down:
      - Community test-kitchen will default to kitchen-cinc.
