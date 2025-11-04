@@ -1,11 +1,11 @@
+| **RFC** | **Title** | **Author** | **Status** | **Type** | **Replaces** | **Related Issue** |
+|---------|-----------|------------|------------|----------|--------------|-------------------|
+| 0000 | My Proposed Change | Alan Smithee <asmithee@example.com> | Draft | <Major Change, Informational, Process, Documentation> | RFC - [0000-template](https://github.com/test-kitchen/rfcs/blob/main/rfcs/0000-template.md) | [example_issue](https://github.com/test-kitchen/kitchen-dokken/issues/1) |
+
 ---
-RFC: 0000
-Title: My Proposed Change
-Author: Alan Smithee <asmithee@example.com>
-Status: Draft
-Type: <Major Change, Informational, Process, Documentation>
-Replaces: RFC - [0000-template](https://github.com/test-kitchen/rfcs/blob/main/rfcs/0000-template.md)
-Related Issue: [example_issue](https://github.com/test-kitchen/kitchen-dokken/issues/1)
+
+# Title
+
 ---
 
 ## Summary
