@@ -52,30 +52,30 @@ In short, any major feature needs an RFC that has been merged into this RFC
 repo as a markdown file. At that point the RFC is 'active' and may be
 implemented with the goal of eventual inclusion into a test-kitchen org repository.
 
-* Fork [the RFC repo](https://github.com/test-kitchen/rfcs) (that's this one!)
-* Copy `0000-template.md` to `rfcs/0000-my-feature.md` (Where 'my-feature' is
+- Fork [the RFC repo](https://github.com/test-kitchen/rfcs) (that's this one!)
+- Copy `0000-template.md` to `rfcs/0000-my-feature.md` (Where 'my-feature' is
   descriptive—don't assign an RFC number yet.)
-* Fill in the RFC. Put care into the details: RFCs should include convincing
+- Fill in the RFC. Put care into the details: RFCs should include convincing
   motivation, demonstrate understanding of the impact of the design, and be
   clear about drawbacks or alternatives.
-* Submit a pull request. As a pull request the RFC will receive design feedback
+- Submit a pull request. As a pull request the RFC will receive design feedback
   from the larger community, and the author should be prepared to revise it in
   response.
-* Build consensus and integrate feedback. RFCs that have broad support are much
+- Build consensus and integrate feedback. RFCs that have broad support are much
   more likely to make progress than those that don't receive any comments.
-* RFCs rarely go through this process unchanged, especially as alternatives and
+- RFCs rarely go through this process unchanged, especially as alternatives and
   drawbacks are shown. You can make edits, big and small, to the RFC to clarify
   or change the design, but make changes as new commits to the PR, and leave a
   comment on the PR explaining your changes. Specifically, do not squash or
   rebase commits after they are visible on the PR.
-* RFCs that are candidates for inclusion will enter a "final comment period"
+- RFCs that are candidates for inclusion will enter a "final comment period"
   lasting 7 days. The beginning of this period will be signaled with a comment
   and tag on the RFC's pull request. At that point, please post a link to the RFC
   in the community chef slack [test-kitchen](https://chefcommunity.slack.com/archives/C2B6G1WCQ)
   channel about the RFC to attract the community's attention.
-* An RFC can be modified based upon feedback from the [maintainers] and
+- An RFC can be modified based upon feedback from the [maintainers] and
   community. Significant modifications may trigger a new final comment period.
-* An RFC may be rejected by the [maintainers] after public discussion has
+- An RFC may be rejected by the [maintainers] after public discussion has
   settled and comments have been made summarizing the rationale for rejection.
   A [maintainer] should then close the RFC's associated pull request.
 * An RFC may be accepted at the close of its final comment period. A
@@ -124,7 +124,7 @@ The [maintainers] will review open RFC pull requests, giving feedback and
 eventually accepting or rejecting each one. Every accepted feature should have
 a maintainer champion, who will represent the feature and its progress.
 
-#### Inspiration
+### Inspiration
 
 The test-kitchen RFC process is inspired by the [rubygems], RFC processes.
 

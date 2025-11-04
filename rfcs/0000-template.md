@@ -4,12 +4,8 @@ Title: My Proposed Change
 Author: Alan Smithee <asmithee@example.com>
 Status: Draft
 Type: <Major Change, Informational, Process, Documentation>
-Replaces: RFC - [<rfc_number>-<rfc_title>](https://github.com/test-kitchen/rfcs/blob/main/rfcs/<rfc_number>-<rfc_title>.md)
-Related Issue: [<title>](https://github.com/test-kitchen/<repo_name>/issues/X)
----
-
-# Title
-
+Replaces: RFC - [0000-template](https://github.com/test-kitchen/rfcs/blob/main/rfcs/0000-template.md)
+Related Issue: [example_issue](https://github.com/test-kitchen/kitchen-dokken/issues/1)
 ---
 
 ## Summary
