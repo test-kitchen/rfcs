@@ -78,7 +78,7 @@ implemented with the goal of eventual inclusion into a test-kitchen org reposito
 - An RFC may be rejected by the [maintainers] after public discussion has
   settled and comments have been made summarizing the rationale for rejection.
   A [maintainer] should then close the RFC's associated pull request.
-* An RFC may be accepted at the close of its final comment period. A
+- An RFC may be accepted at the close of its final comment period. A
   [maintainer] will merge the RFC's associated pull request, at which point the
   RFC will become 'active'.
 
