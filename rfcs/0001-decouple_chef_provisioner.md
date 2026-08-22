@@ -4,7 +4,7 @@
 
 | **RFC** | **Author**                              | **Status** | **Type**     |
 |---------|-----------------------------------------|------------|--------------|
-| 0001    | Corey Hemminger <hemminger@hotmail.com> | Aproved    | Major Change |
+| 0001    | Corey Hemminger <hemminger@hotmail.com> | Approved    | Major Change |
 
 ---
 
